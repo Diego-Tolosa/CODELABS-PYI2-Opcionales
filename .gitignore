@@ -1,0 +1,28 @@
+# ignorar entornos virtuales
+venv/
+env/
+.venv/
+venv-dlib/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de entorno o configuración local
+*.env
+.env
+License-Plate-Recognition-1/
+
+# Archivos de logs
+*.log
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
